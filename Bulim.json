@@ -1,0 +1,7 @@
+[
+  { "radius": ["Hisoblash jarayonini tanlang", ""] },
+  { "radius": ["Shar hajmini hisoblash", "hajm"] },
+  { "radius": ["Shar sirtini hisoblash", "sirti"] },
+  { "radius": ["Shar sektorini hisoblash", "sektor"] },
+  { "radius": ["Shar segmentini hisoblash", "sektor"] }
+]
